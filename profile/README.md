@@ -5,7 +5,7 @@
 **Comunidad tech para conectar, inspirarte y crecer.**
 
 [![Sitio web](https://img.shields.io/badge/Sitio_web-chambalab.org-FACC15?style=for-the-badge&labelColor=080D1A)](https://chambalab.org)
-[![Discord](https://img.shields.io/badge/Discord-Unirse-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fNd8CXBbsQ)
+[![Discord](https://img.shields.io/badge/Discord-Unirse-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://chambalab.org/discord)
 
 [Eventos](https://chambalab.org/events) · [Recursos](https://chambalab.org/resources) · [Dinámicas](https://chambalab.org/activities) · [Equipo](https://chambalab.org/team)
 
@@ -52,7 +52,7 @@ Hablamos principalmente en español y nuestro horario base es UTC-5.
 
 ## 🚀 Participa
 
-- Únete a la conversación en [Discord](https://discord.gg/fNd8CXBbsQ).
+- Únete a la conversación en [Discord](https://chambalab.org/discord).
 - Si quieres contribuir al sitio, lee la [guía de contribución](https://github.com/Chamba-Lab/home/blob/master/CONTRIBUTING.md).
 - Convivimos bajo nuestro [código de conducta](https://github.com/Chamba-Lab/home/blob/master/CODE_OF_CONDUCT.md).
 
