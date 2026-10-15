@@ -19,7 +19,7 @@ Un espacio donde las personas en tecnología se conectan, se inspiran y crecen j
 
 Nace de algo que funcionó: un círculo pequeño en Discord donde se conversaba, se discutía y se planeaba, y que motivaba a aspirar a más. Chamba Lab quiere que ese tipo de espacio esté disponible desde etapas tempranas y para más gente.
 
-Todo ocurre en nuestro [Discord](https://discord.gg/fNd8CXBbsQ). El [sitio](https://chambalab.org) es la vista pública de la comunidad.
+Todo ocurre en nuestro [Discord](https://chambalab.org/discord). El [sitio](https://chambalab.org) es la vista pública de la comunidad.
 
 ## 🎯 Qué hacemos
 
